@@ -1,0 +1,6 @@
+PORT = 5000
+
+MONGODB_URL = mongodb://localhost/maptrip
+MONGODB_URL_ONLINE = mongodb+srv://cos4105:cos4105@cluster0.fhxuvg2.mongodb.net/farm-herb?retryWrites=true&w=majority
+TOKEN_SECRET = yoursecretkey4105
+JWT_SECRET = sdf$sssfdfs
